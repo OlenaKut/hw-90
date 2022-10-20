@@ -4,3 +4,7 @@
   display: flex;
   color: white;
 }
+.AppMain {
+  background: #2e777e;
+  height: 50%;
+ }
