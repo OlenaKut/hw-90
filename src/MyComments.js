@@ -34,6 +34,13 @@ let comments = [
     like: "2",
     dislike: "3",
   },
+  {
+    author: "Olena",
+    title: "Reviews ",
+    comtent: "Just watching",
+    like: "0",
+    dislike: "1",
+  },
 ];
 
 export default comments;
